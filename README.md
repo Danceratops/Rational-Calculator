@@ -1,4 +1,4 @@
-# Rational-Calulator
+# Rational-Calculator
 A calculator that works on rational numbers.
 
 This calculator allows you to perform basic arithmetic functions on rational numbers such as +, -, *, and /.
